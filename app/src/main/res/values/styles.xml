@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="KeyoTextViewHeadline" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/txt_color</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:autoSizeTextType">uniform</item>
+        <item name="android:autoSizeMinTextSize">20sp</item>
+        <item name="android:autoSizeMaxTextSize">40sp</item>
+    </style>
+
+    <style name="KeyoTextViewBody" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/txt_color_light</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>
